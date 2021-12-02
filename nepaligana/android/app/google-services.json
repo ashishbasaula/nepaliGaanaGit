@@ -1,0 +1,138 @@
+{
+  "project_info": {
+    "project_number": "124645311526",
+    "firebase_url": "https://nepaligaana-fe5dc-default-rtdb.firebaseio.com",
+    "project_id": "nepaligaana-fe5dc",
+    "storage_bucket": "nepaligaana-fe5dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124645311526:android:10fa3a70f577f1775e12e7",
+        "android_client_info": {
+          "package_name": "com.blisse.nepaliGaana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124645311526-nrgeukdark0n8n2ajtgcmhthp8iib6kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blisse.nepaliGaana",
+            "certificate_hash": "9528fda9d68ae0c9ef127e2b65ab724627873eb3"
+          }
+        },
+        {
+          "client_id": "124645311526-vnps0uij94njcm1mctvnsa9c39e3r8so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blisse.nepaliGaana",
+            "certificate_hash": "0f94cd5b456f8d0d1654d44da96fb4c7e2d6a132"
+          }
+        },
+        {
+          "client_id": "124645311526-1ge63vbs5blnoi5ra2n9d59d2tjg7m98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7J5oQ3X75Lf7FSiOCvToggHjifW5r4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124645311526-1ge63vbs5blnoi5ra2n9d59d2tjg7m98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124645311526:android:28a0e3fed36899ad5e12e7",
+        "android_client_info": {
+          "package_name": "com.nepaliGaana.np"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124645311526-182hqsnevr51l2u7ufv69kbsnk4oanb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nepaliGaana.np",
+            "certificate_hash": "088f6835e1d0ab7b8ce344fe648b4dd624df1fcd"
+          }
+        },
+        {
+          "client_id": "124645311526-eic36aad6f792npu6gsdle1trlafbrj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nepaliGaana.np",
+            "certificate_hash": "27cac61c92638491d574ff582ba9727c4f9a8181"
+          }
+        },
+        {
+          "client_id": "124645311526-1ge63vbs5blnoi5ra2n9d59d2tjg7m98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7J5oQ3X75Lf7FSiOCvToggHjifW5r4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124645311526-1ge63vbs5blnoi5ra2n9d59d2tjg7m98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124645311526:android:1838d5a35945627d5e12e7",
+        "android_client_info": {
+          "package_name": "com.uploadMusic.np"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124645311526-a5if0kllh21e02b1qcei6955sdau24tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uploadMusic.np",
+            "certificate_hash": "1e2831472e1d848009355c7989b469a46f6dbb0a"
+          }
+        },
+        {
+          "client_id": "124645311526-1ge63vbs5blnoi5ra2n9d59d2tjg7m98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7J5oQ3X75Lf7FSiOCvToggHjifW5r4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124645311526-1ge63vbs5blnoi5ra2n9d59d2tjg7m98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
